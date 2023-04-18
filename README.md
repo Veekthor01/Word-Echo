@@ -7,7 +7,7 @@
 #### 3. The tool will return a list of words that match and sound like the word you typed in.
 
 ## Installation
-#### To use this Word finder web application, you can simply download the source code files and save them to your local computer. Then, open the index.html file in a web browser, and you will see the app displayed on the webpage.
+#### To use this Word finder web application, you can simply download the source code files and save them to your local computer. Then, open the index.html file in a web browser, and you will see the app displayed on the webpage. See about section for live site
 
 ## License
 #### This project is licensed under the MIT License - see the LICENSE.md file for details.
